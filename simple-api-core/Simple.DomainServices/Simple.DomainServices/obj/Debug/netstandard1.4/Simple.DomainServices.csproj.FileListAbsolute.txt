@@ -1,0 +1,8 @@
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\bin\Debug\netstandard1.4\Simple.DomainServices.deps.json
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\bin\Debug\netstandard1.4\Simple.DomainServices.dll
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\bin\Debug\netstandard1.4\Simple.DomainServices.pdb
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\bin\Debug\netstandard1.4\Simple.Domain.dll
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\bin\Debug\netstandard1.4\Simple.Domain.pdb
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\obj\Debug\netstandard1.4\Simple.DomainServices.AssemblyInfo.cs
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\obj\Debug\netstandard1.4\Simple.DomainServices.dll
+C:\source\container-playground\simple-api-core\Simple.DomainServices\Simple.DomainServices\obj\Debug\netstandard1.4\Simple.DomainServices.pdb
